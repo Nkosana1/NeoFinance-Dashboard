@@ -1,8 +1,8 @@
 import React from 'react'
 import { ArrowDownCircle, ArrowUpCircle, ExternalLink } from 'lucide-react'
-import './RecentTransactions.css'
+import './RecentActivity.css'
 
-const RecentTransactions = () => {
+const RecentActivity = () => {
   const transactions = [
     {
       id: 1,
@@ -118,4 +118,4 @@ const RecentTransactions = () => {
   )
 }
 
-export default RecentTransactions
+export default RecentActivity

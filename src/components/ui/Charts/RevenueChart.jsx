@@ -11,7 +11,7 @@ import {
   ResponsiveContainer,
   Legend
 } from 'recharts'
-import './Chart.css'
+import './charts.css'
 
 const RevenueChart = () => {
   const data = [

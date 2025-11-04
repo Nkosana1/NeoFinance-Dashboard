@@ -46,6 +46,13 @@
   --text-3xl: 1.875rem;  /* 30px */
   --text-4xl: 2.25rem;   /* 36px */
 
+  /* Mobile First Approach - Breakpoints */
+  --breakpoint-sm: 640px;    /* Tablets */
+  --breakpoint-md: 768px;    /* Small laptops */
+  --breakpoint-lg: 1024px;   /* Desktops */
+  --breakpoint-xl: 1280px;   /* Large screens */
+  --breakpoint-2xl: 1536px;  /* Extra large */
+
   /* Shadows */
   --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
   --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);

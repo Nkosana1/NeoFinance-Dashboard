@@ -1,8 +1,8 @@
 import React from 'react'
 import { TrendingUp, DollarSign, Users, ArrowUpRight, ArrowDownRight } from 'lucide-react'
-import './MetricsCards.css'
+import './StatsGrid.css'
 
-const MetricsCards = () => {
+const StatsGrid = () => {
   const metrics = [
     {
       title: 'Total Revenue',
@@ -76,4 +76,4 @@ const MetricsCards = () => {
   )
 }
 
-export default MetricsCards
+export default StatsGrid
